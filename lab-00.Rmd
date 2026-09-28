@@ -31,7 +31,7 @@ team_data <- tibble(
 team_data
 ```
 
-### Exercise 18
+### Exercise 18 
 
 We now work on visualising our data. 
 
